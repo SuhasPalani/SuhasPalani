@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F720013059164540251%2F&psig=AOvVaw3lqlNPGJQn0qZipOMNNvfJ&ust=1678972230026000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODFvY2B3v0CFQAAAAAdAAAAABAJ))]
+![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F720013059164540251%2F&psig=AOvVaw3lqlNPGJQn0qZipOMNNvfJ&ust=1678972230026000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODFvY2B3v0CFQAAAAAdAAAAABAJ))
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
 <h3 align="center">A budding and passionate Computer Engineer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
