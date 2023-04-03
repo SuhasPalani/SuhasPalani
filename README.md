@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkNzIxNGEzNWMyOGVhYjE4MGNjYTJmM2Q5YWJjMDlkZDBiY2EwZiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
 <h3 align="center">A budding and passionate Computer Engineer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
+<img align="center" alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaspalani&label=Profile%20views&color=0e75b6&style=flat" alt="suhaspalani" /> </p>
 
