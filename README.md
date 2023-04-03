@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhaspalani&show_icons=true&locale=en" alt="suhaspalani" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SuhasPalani)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SuhasPalani1&theme=dark)](https://git.io/streak-stats)
 
 
 
