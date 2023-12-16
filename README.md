@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sugi_suhas" target="blank"><img src="https://img.shields.io/twitter/follow/sugi_suhas?logo=twitter&style=for-the-badge" alt="sugi_suhas" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm in Python**
+- 🌱 I’m currently learning **Data Structures and Algorithm in Python and Introduction to Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
 
