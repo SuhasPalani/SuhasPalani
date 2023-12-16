@@ -42,8 +42,7 @@
 
 ![Suhas Palani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=darcula&hide=prs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SuhasPalani&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SuhasPalani)](https://git.io/streak-stats)
 </div>
 
 
