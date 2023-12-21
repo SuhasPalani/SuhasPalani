@@ -61,5 +61,5 @@
 <!-- GitHub Stats with Random Query Parameter -->
 ![Suhas Palani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=darcula&hide=prs,issues&cache_buster=1)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuhasPalani&theme=merko&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuhasPalani)](https://git.io/streak-stats)
 </div>
