@@ -1,14 +1,19 @@
 <!-- Header -->
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkNzIxNGEzNWMyOGVhYjE4MGNjYTJmM2Q5YWJjMDlkZDBiY2EwZiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
+<!-- Header -->
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkNzIxNGEzNWMyOGVhYjE4MGNjYTJmM2Q5YWJjMDlkZDBiY2EwZiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="MasterHead">
+</div>
+
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
 <h3 align="center">A budding and passionate Computer Engineer from India</h3>
 
 <!-- Coding GIF -->
-<p align="center">
-  <img align="center" alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
-</p>
+<div align="center">
+  <img alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
+</div>
 
 <!-- Profile Views -->
 <p align="left">
@@ -28,7 +33,6 @@
     <img src="https://img.shields.io/twitter/follow/sugi_suhas?logo=twitter&style=for-the-badge" alt="sugi_suhas" />
   </a>
 </p>
-
 <!-- Learning and Projects -->
 - 🌱 I’m currently learning **Data Structures and Algorithm in Python and Introduction to DevOps**
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
