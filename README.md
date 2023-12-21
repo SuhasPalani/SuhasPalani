@@ -1,11 +1,6 @@
 <!-- Header -->
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkNzIxNGEzNWMyOGVhYjE4MGNjYTJmM2Q5YWJjMDlkZDBiY2EwZiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
-<!-- Header -->
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkNzIxNGEzNWMyOGVhYjE4MGNjYTJmM2Q5YWJjMDlkZDBiY2EwZiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="MasterHead">
-</div>
-
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
 <h3 align="center">A budding and passionate Computer Engineer from India</h3>
