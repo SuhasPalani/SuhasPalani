@@ -15,10 +15,7 @@
   <img alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
 </div>
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suhaspalani&label=Profile%20views&color=0e75b6&style=flat" alt="suhaspalani" />
-</p>
+
 
 <!-- GitHub Trophies -->
 <p align="left">
