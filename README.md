@@ -31,8 +31,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **sugipals007@gmail.com**
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
