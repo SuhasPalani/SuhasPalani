@@ -32,6 +32,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
 
 - 📫 How to reach me **sugipals007@gmail.com**
+- Visit my Portfolio website at ![image](https://github.com/SuhasPalani/SuhasPalani/assets/61835475/fdf20a44-24c7-4d9d-bc85-5223a4c2557e)
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
