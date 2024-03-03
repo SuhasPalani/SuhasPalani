@@ -32,7 +32,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
 
 - 📫 How to reach me **sugipals007@gmail.com**
-- Visit my Portfolio website at https://suhaspalani.netlify.app/
+- 👉 Visit my Portfolio website at https://suhaspalani.netlify.app/
 
 
 <br>
