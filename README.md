@@ -5,7 +5,8 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
-<h3 align="center">A budding and passionate Computer Engineer from India</h3>
+<h3 align="center">An aspiring Software Engineer</h3>
+
 
 <!-- Coding GIF -->
 <div align="center">
