@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">I'm an aspiring Software Engineer</h3>
 
 
 <!-- Coding GIF -->
