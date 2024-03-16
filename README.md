@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm Suhas Palani</h1>
 <h3 align="center">I'm an aspiring Software Engineer</h3>
 
-
 <!-- Coding GIF -->
 <div align="center">
   <img alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
