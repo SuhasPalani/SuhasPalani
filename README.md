@@ -35,6 +35,8 @@
 
 - 👉 Visit my Portfolio website at https://suhaspalani.netlify.app/
 
+- 🗎 Check my Resume here 👉 https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
