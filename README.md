@@ -35,7 +35,7 @@
 
 - 👉 Visit my Portfolio website at https://suhaspalani.netlify.app/
 
-- 🗎 <p>You can view my resume by clicking <a href="https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing" target="_blank">Resume</a>.</p>
+- 🗎 You can view my resume by clicking <a href="https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing" target="_blank">Resume</a>.
   
 
 <br>
