@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 <!-- Twitter Badge -->
 <p align="left"> <a href="https://twitter.com/sugi_suhas" target="blank"><img src="https://img.shields.io/twitter/follow/sugi_suhas?logo=twitter&style=for-the-badge" alt="sugi_suhas" /></a> </p>
 
