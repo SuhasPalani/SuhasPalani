@@ -57,6 +57,7 @@
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <div align="left">
+  
 <!-- GitHub Stats with Random Query Parameter -->
 ![Suhas Palani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=darcula&hide=prs,issues&cache_buster=1)
   
