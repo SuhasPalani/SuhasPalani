@@ -25,10 +25,15 @@
 <!-- Twitter Badge -->
 <p align="left"> <a href="https://twitter.com/sugi_suhas" target="blank"><img src="https://img.shields.io/twitter/follow/sugi_suhas?logo=twitter&style=for-the-badge" alt="sugi_suhas" /></a> </p>
 - 🌱 I’m currently learning **Data Structures and Algorithm in Python, Machine Learning and Introduction to Devops(Docker, Kubernetes, Jenkins)**
+
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
+  
 - 📫 How to reach me **sugipals007@gmail.com** or **spalani3@hawk.iit.edu**
+  
 - 👉 Visit my Portfolio website at https://suhaspalani.netlify.app/
+
 - 📄 You can view my resume by clicking <a href="https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing" target="_blank">Resume</a>.
+  
   
 
 <br>
