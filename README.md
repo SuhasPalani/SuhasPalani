@@ -30,9 +30,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
 
 - 📫 How to reach me **sugipals007@gmail.com** or **spalani3@hawk.iit.edu**
-
 - 👉 Visit my Portfolio website at https://suhaspalani.netlify.app/
-
 - 📄 You can view my resume by clicking <a href="https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing" target="_blank">Resume</a>.
   
 
