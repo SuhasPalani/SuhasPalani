@@ -23,7 +23,7 @@
 </p>
 
 <!-- Twitter Badge -->
-<p align="left"> <a href="https://x.com/SuhasPalani" target="blank"><img src="https://img.shields.io/twitter/follow/sugi_suhas?logo=twitter&style=for-the-badge" alt="sugi_suhas" /></a> </p>
+<p align="left"> <a href="https://x.com/SuhasPalani" target="blank"><img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="SuhasPalani" /></a> </p>
 - 🌱 I’m currently learning **Data Structures and Algorithm in Python, Machine Learning and Introduction to Devops(Docker, Kubernetes, Jenkins)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sugi_suhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugi_suhas" height="30" width="40" /></a>
+<a href="https://x.com/SuhasPalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SuhasPalani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhaspalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaspalani" height="30" width="40" /></a>
 <a href="https://fb.com/suhas palani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhas palani" height="30" width="40" /></a>
 <a href="https://instagram.com/sugisuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sugisuhas" height="30" width="40" /></a>
