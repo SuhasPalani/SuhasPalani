@@ -24,6 +24,8 @@
 
 <!-- Twitter Badge -->
 <p align="left"> <a href="https://x.com/SuhasPalani" target="blank"><img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="SuhasPalani" /></a> </p>
+- 🧑‍🎓 I've actively begun studying for the <b></b>AWS Certified Cloud Practitioner (CLF-C02) </b> certification to broaden my cloud computing knowledge.
+
 - 🌱 I’m currently learning <b>Data Structures and Algorithm in Python, Machine Learning and Introduction to Devops(Docker, Kubernetes, Jenkins)</b>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
