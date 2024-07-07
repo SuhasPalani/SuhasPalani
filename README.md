@@ -25,7 +25,7 @@
 <!-- Twitter Badge -->
 <p align="left"> <a href="https://x.com/SuhasPalani" target="blank"><img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="SuhasPalani" /></a> </p>
 
-- 🧑‍🎓 I've actively begun studying for the <b> **</b>AWS Certified Cloud Practitioner (CLF-C02)**</b> certification to broaden my cloud computing knowledge.
+- 🧑‍🎓 I've actively begun studying for the <b> **</b>AWS Certified Cloud Practitioner (CLF-C02)**</b> certification to broaden my cloud computing knowledge and also dbt tool and snowflake integration.
 
 - 🌱 I’m currently learning <b>Data Structures and Algorithm in Python, Machine Learning and Introduction to Devops(Docker, Kubernetes, Jenkins)</b>
 
@@ -66,5 +66,5 @@
 <!-- GitHub Stats with Random Query Parameter -->
 ![Suhas Palani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=darcula&hide=prs,issues&cache_buster=1)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuhasPalani)](https://git.io/streak-stats)
+
 </div>
