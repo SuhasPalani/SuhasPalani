@@ -25,7 +25,7 @@
 <!-- Twitter Badge -->
 <p align="left"> <a href="https://x.com/SuhasPalani" target="blank"><img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="SuhasPalani" /></a> </p>
 
-- 🧑‍🎓 I've actively begun studying for the <b> **</b>AWS Certified Cloud Practitioner (CLF-C02)**</b> certification to broaden my cloud computing knowledge and also dbt tool and snowflake integration.
+- 🧑‍🎓 I've actively begun studying for the <b> **</b>AWS Certified Cloud Practitioner (CLF-C02)**</b> certification to broaden my cloud computing knowledge and also dbt tool and snowflake integration. Also working on a startup project called summarAIze.
 
 - 🌱 I’m currently learning <b>Data Structures and Algorithm in Python, Machine Learning and Introduction to Devops(Docker, Kubernetes, Jenkins)</b>
 
