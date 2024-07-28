@@ -27,8 +27,6 @@
 
 - 🧑‍🎓 I've actively begun studying for the <b> **</b>AWS Certified Cloud Practitioner (CLF-C02)**</b> certification to broaden my cloud computing knowledge and also dbt tool and snowflake integration. Also working on a startup project called summarAIze.
 
-- 🌱 I’m currently learning <b>Data Structures and Algorithm in Python, Machine Learning and Introduction to Devops(Docker, Kubernetes, Jenkins)</b>
-
 - 👨‍💻 All of my projects are available at [https://github.com/SuhasPalani](https://github.com/SuhasPalani)
   
 - 📫 How to reach me **sugipals007@gmail.com** or **spalani3@hawk.iit.edu**
