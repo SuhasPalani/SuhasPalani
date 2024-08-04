@@ -35,7 +35,7 @@
 
 - 📄 You can view my resume by clicking <a href="https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing" target="_blank">Resume</a>.
 
-- Actively seeking Fall 2024 Internship/ Co-op..
+- Actively seeking Fall 2024 Internship/ Co-op.
 
 
   
