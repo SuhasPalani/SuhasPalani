@@ -9,17 +9,17 @@
   <img alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=suhaspalani&label=Profile%20views&color=0e75b6&style=flat" alt="suhaspalani" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=suhaspalani&theme=onedark&row=1&column=6" alt="suhaspalani" />
   </a>
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://x.com/SuhasPalani" target="blank">
     <img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="SuhasPalani" />
   </a> 
@@ -41,16 +41,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://x.com/SuhasPalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SuhasPalani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhaspalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaspalani" height="30" width="40" /></a>
 <a href="https://instagram.com/sugisuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sugisuhas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sugipals007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sugipals007" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -70,8 +70,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">GitHub Stats:</h3>
-<div align="center">
+<h3 align="left">GitHub Stats:</h3>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaspalani&show_icons=true&locale=en&layout=compact&theme=darcula" alt="suhaspalani" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=darcula&hide=prs,issues" alt="Suhas Palani's GitHub stats" />
@@ -79,11 +79,12 @@
   <img src="https://streak-stats.demolab.com?user=SuhasPalani&theme=darcula" alt="GitHub Streak" />
 </div>
 
+<h3 align="left">Activity Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SuhasPalani&theme=react-dark&bg_color=20232a&hide_border=true" alt="Suhas Palani's Activity Graph" />
+</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
   <b> Keep Coding! </b>
 </div>
-
-
-  
-
