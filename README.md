@@ -33,7 +33,7 @@
 
 - 👉 Visit my [Portfolio](https://suhaspalani.netlify.app/)
 
-- 📄 View my [Resume](https://drive.google.com/file/d/10A6uxjfugSQvXxZ5WZu8F8aj0EtVhJ2U/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/14e3MAfn3aGkNq7szpa7Qs8KdcecmBoIM/view)
 
 - 🌟 Actively seeking Fall 2024 Internship/Co-op.
 
