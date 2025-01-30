@@ -1,88 +1,69 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNkNzIxNGEzNWMyOGVhYjE4MGNjYTJmM2Q5YWJjMDlkZDBiY2EwZiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="MasterHead">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Welcome" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Suhas Palani</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+# 👋 Hello, I'm Suhas Palani!
 
 <div align="center">
-  <img alt="Coding" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47dg25n6tzqjmzrmptzwl5ekrsiabjf8odkf4gdbaj&rid=200w.webp&ct=g">
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhaspalani&label=Profile%20views&color=0e75b6&style=flat" alt="suhaspalani" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suhaspalani&theme=onedark&row=1&column=6" alt="suhaspalani" />
-  </a>
-</p>
-
-<p align="center"> 
-  <a href="https://x.com/SuhasPalani" target="blank">
-    <img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="SuhasPalani" />
-  </a> 
-</p>
-
-- 🧑‍🎓 Currently studying for the **AWS Certified Cloud Practitioner (CLF-C02)** certification. Exploring dbt tool and Snowflake integration. Working on a startup project called **summarAIze**.
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SuhasPalani)
-
-- 📫 Reach me at **sugipals007@gmail.com** or **spalani3@hawk.iit.edu**
-
-- 👉 Visit my [Portfolio](https://suhaspalani.netlify.app/)
-
-- 📄 View my [Resume](https://drive.google.com/file/d/14e3MAfn3aGkNq7szpa7Qs8KdcecmBoIM/view)
-
-- 🌟 Actively seeking Fall 2024 Internship/Co-op.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/SuhasPalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SuhasPalani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhaspalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaspalani" height="30" width="40" /></a>
-<a href="https://instagram.com/sugisuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sugisuhas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sugipals007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sugipals007" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">GitHub Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaspalani&show_icons=true&locale=en&layout=compact&theme=darcula" alt="suhaspalani" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=darcula&hide=prs,issues" alt="Suhas Palani's GitHub stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=SuhasPalani&theme=darcula" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
-  <b> Keep Coding! </b>
-</div>
-
-
+  <img src="https://img.shields.io/badge/Role-Aspiring%20Software%20Engineer-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Data%20Analytics-blue?style=for-the-badge&logo=cloud&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Status-Seeking%20Summer%202025%20Internship-orange?style=for-the-badge&logo=handshake&logoColor=white" alt="Status">
   
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhaspalani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://x.com/SuhasPalani" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/SuhasPalani?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
+</div>
+
+## 🚀 About Me
+
+- 🎓 Pursuing Master's in Information Technology and Management at Illinois Institute of Technology
+- 🌱 Preparing for AWS Certified Cloud Practitioner (CLF-C02) certification
+- 🔍 Exploring dbt tool and Snowflake integration for data analytics
+- 💼 Working on an exciting startup project: **summarAIze**
+- 💡 Passionate about cloud computing, data analytics, and scalable software solutions
+
+## 🛠️ Tech Stack
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaspalani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhasPalani&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/suhaspalani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SuhasPalani" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/sugisuhas" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.hackerrank.com/sugipals007" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+</p>
+
+## 📌 Quick Links
+
+- 👨‍💻 [GitHub Projects](https://github.com/SuhasPalani)
+- 🌐 [Portfolio Website](https://suhaspalani.netlify.app/)
+- 📄 [Resume](https://drive.google.com/file/d/14e3MAfn3aGkNq7szpa7Qs8KdcecmBoIM/view)
+
+## 📬 Get in Touch
+
+- 📧 Email: sugipals007@gmail.com | spalani3@hawk.iit.edu
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
+  <br>
+  <b>Let's connect and build something amazing together!</b>
+</div>
