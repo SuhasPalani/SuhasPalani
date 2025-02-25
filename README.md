@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Welcome" width="100%">
 </div>
 
-# 👋 Hello, I'm Suhas Palani!
+# 👋 Hello, I'm Suhas Palani!!
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Aspiring%20Software%20Engineer-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Role">
