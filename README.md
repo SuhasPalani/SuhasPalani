@@ -44,7 +44,8 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=suhaspalani&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaspalani&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasPalani&theme=radical" alt="GitHub Streak" />
+  
 </div>
 
 ## 🌐 Connect with me
