@@ -39,13 +39,12 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </p>
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaspalani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhasPalani&theme=radical" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhasPalani&theme=radical" alt="GitHub Streak" />
-
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaspalani&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaspalani&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect with me
