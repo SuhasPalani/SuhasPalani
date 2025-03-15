@@ -43,7 +43,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhaspalani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhasPalani&theme=radical" alt="GitHub Streak" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhasPalani&theme=radical" alt="GitHub Streak" />
+
 </div>
 
 ## 🌐 Connect with me
