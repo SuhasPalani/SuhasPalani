@@ -6,9 +6,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Aspiring%20Software%20Engineer-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Data%20Analytics-blue?style=for-the-badge&logo=cloud&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Software%20Development-blue?style=for-the-badge&logo=cloud&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Status-Seeking%20Summer%202025%20Internship-orange?style=for-the-badge&logo=handshake&logoColor=white" alt="Status">
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=suhaspalani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -27,7 +28,7 @@
 - 🌱 Preparing for AWS Certified Cloud Practitioner (CLF-C02) certification
 - 🔍 Exploring dbt tool and Snowflake integration for data analytics
 - 💼 Working on an exciting startup project: **summarAIze**
-- 💡 Passionate about cloud computing, data analytics, and scalable software solutions
+- 💡 Passionate about cloud computing, Software Developement, data analytics, and scalable software solutions
 
 ## 🛠️ Tech Stack
 
