@@ -69,8 +69,8 @@
 ## 📌 Quick Links
 
 - 👨‍💻 [GitHub Projects](https://github.com/SuhasPalani)
-- 🌐 [Portfolio Website](https://suhaspalani.netlify.app/)
-- 📄 [Resume](https://drive.google.com/file/d/14e3MAfn3aGkNq7szpa7Qs8KdcecmBoIM/view)
+- 🌐 [Portfolio Website](https://suhaspalani23.netlify.app/)
+- 📄 [Resume](https://drive.google.com/file/d/1Bi9OfF6YrQepgcrMyLhWx-c6SObh9XdZ/view?usp=drive_link)
 
 ## 📬 Get in Touch
 
