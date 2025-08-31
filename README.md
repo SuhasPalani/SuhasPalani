@@ -231,7 +231,7 @@ const suhas = {
         </a>
       </td>
       <td align="center">
-        <a href="[https://drive.google.com/file/d/1Bi9OfF6YrQepgcrMyLhWx-c6SObh9XdZ/view?usp=drive_link](https://drive.google.com/file/d/1VHeR4C-ZrqjTTM-hHNl1DMe235LP31jS/view?usp=sharing)" target="_blank">
+        <a href="https://drive.google.com/file/d/1VHeR4C-ZrqjTTM-hHNl1DMe235LP31jS/view?usp=sharing" target="_blank">
           <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-red?style=for-the-badge" alt="Resume"/>
         </a>
       </td>
