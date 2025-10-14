@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Suhas Palani!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Cloud+Computing+Enthusiast;Data+Analytics+Explorer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;Cloud+Computing+Enthusiast;Data+Analytics+Explorer;Building+Tomorrow,+Today" alt="Typing SVG" />
+
+
 </div>
 
 <div align="center">
