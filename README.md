@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Suhas Palani!
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;Cloud+Computing+Enthusiast;Data+Analytics+Explorer;Building+Tomorrow,+Today" alt="Typing SVG" />
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;Cloud+Computing+Enthusiast;Data+Analytics+Explorer;Building+Tomorrow,+Today" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -99,12 +97,12 @@ const suhas = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasPalani&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuhasPalani&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasPalani&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhasPalani&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SuhasPalani&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -112,7 +110,7 @@ const suhas = {
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuhasPalani&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SuhasPalani&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ### 🎖️ Recent Highlights
@@ -207,16 +205,16 @@ const suhas = {
 
 <div align="center">
   <a href="https://linkedin.com/in/suhaspalani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/SuhasPalani" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/sugisuhas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/sugipals007" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </div>
 
@@ -254,7 +252,7 @@ const suhas = {
   <p>
     <img src="https://img.shields.io/badge/Email-sugipals007@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"/>
     <br>
-    <img src="https://img.shields.io/badge/Academic-spalani3@hawk.illinoistech.edu-blue?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Academic Email"/>
+    <img src="https://img.shields.io/badge/Academic-spalani3@hawk.iit.edu-blue?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Academic Email"/>
   </p>
 </div>
 
